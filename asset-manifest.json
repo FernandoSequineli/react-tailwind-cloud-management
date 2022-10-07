@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tailwing-cloud-management/static/css/main.abd64e84.css",
+    "main.js": "/react-tailwing-cloud-management/static/js/main.579a7a5a.js",
+    "index.html": "/react-tailwing-cloud-management/index.html",
+    "main.abd64e84.css.map": "/react-tailwing-cloud-management/static/css/main.abd64e84.css.map",
+    "main.579a7a5a.js.map": "/react-tailwing-cloud-management/static/js/main.579a7a5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.579a7a5a.js"
+  ]
+}
