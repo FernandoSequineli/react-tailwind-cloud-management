@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-tailwind-cloud-management/static/css/main.abd64e84.css",
-    "main.js": "/react-tailwind-cloud-management/static/js/main.579a7a5a.js",
+    "main.css": "/react-tailwind-cloud-management/static/css/main.72c40da4.css",
+    "main.js": "/react-tailwind-cloud-management/static/js/main.d3a71da4.js",
     "index.html": "/react-tailwind-cloud-management/index.html",
-    "main.abd64e84.css.map": "/react-tailwind-cloud-management/static/css/main.abd64e84.css.map",
-    "main.579a7a5a.js.map": "/react-tailwind-cloud-management/static/js/main.579a7a5a.js.map"
+    "main.72c40da4.css.map": "/react-tailwind-cloud-management/static/css/main.72c40da4.css.map",
+    "main.d3a71da4.js.map": "/react-tailwind-cloud-management/static/js/main.d3a71da4.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd64e84.css",
-    "static/js/main.579a7a5a.js"
+    "static/css/main.72c40da4.css",
+    "static/js/main.d3a71da4.js"
   ]
 }
